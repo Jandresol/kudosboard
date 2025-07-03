@@ -1,8 +1,6 @@
 ## Unit Assignment: Kudos Board
 
-Submitted by: **NAME**
-
-Deployed Application (optional): [Kudos Board Deployed Site](ADD_LINK_HERE)
+Submitted by: **Jasmine Andresol**
 
 ### Application Features
 
