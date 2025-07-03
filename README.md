@@ -130,12 +130,12 @@ Deployed Application (optional): [Kudos Board Deployed Site](ADD_LINK_HERE)
 - [ ] The pinned state of a card persists when:
   - [ ] navigating away from and back to the board.
   - [ ] refreshing the page. 
-- [ ] **User Accounts**
-  - [ ] Users should be able to log in with a username and password.
-  - [ ] Users should be able to sign up for a new account.
-  - [ ] Boards and cards should be associated with a user.
-    - [ ] Anonymous cards or cards by guest users should still be allowed.
-  - [ ] Add a new filter option on the home page to display only the current user's boards.
+- [x] **User Accounts**
+  - [x] Users should be able to log in with a username and password.
+  - [x] Users should be able to sign up for a new account.
+  - [x] Boards and cards should be associated with a user.
+    - [x] Anonymous cards or cards by guest users should still be allowed.
+  - [x] Add a new filter option on the home page to display only the current user's boards.
   - [ ] Allow boards to be deleted only if they are owned by the user.
 
 
