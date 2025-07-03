@@ -152,15 +152,19 @@ Submitted by: **Jasmine Andresol**
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, the labs helped build a strong foundation, especially around routing and creating endpoints with Express. The most interesting part was seeing the fetch URL start to resemble the movie API fetch URL — it helped me understand how front-end and back-end connect. Making the endpoints and routing was something I became more comfortable with due to the labs.
+
+However, I still felt unprepared when it came to fully managing GitHub workflows. Specifically, handling merges, avoiding branch conflicts, and knowing best practices for collaboration were challenging. I also had to spend extra time understanding how to properly test and validate incoming data from requests.
+
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have added more robust error handling and input validation to make the API more reliable. I also would have implemented filtering and search functionality on the backend with query parameters. It would have been great to write more comprehensive tests or add UI feedback on the front end based on server responses (like error or success messages).
+
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+The demo went well overall — the routing worked, and we were able to show how data was being fetched and displayed. One thing that didn’t go as planned was dealing with GitHub merging and branching — I kept accidentally working on the wrong branch. It slowed me down and made collaboration harder than expected. I also noticed some peers using nodemon for automatic server restarts, which I wasn’t using initially. Next time, I’d like to incorporate tools like that earlier on to improve my workflow.
 
 ### Open-source libraries used
 
