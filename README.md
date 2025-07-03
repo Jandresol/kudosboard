@@ -134,14 +134,19 @@ Submitted by: **Jasmine Andresol**
   - [x] Boards and cards should be associated with a user.
     - [x] Anonymous cards or cards by guest users should still be allowed.
   - [x] Add a new filter option on the home page to display only the current user's boards.
-  - [ ] Allow boards to be deleted only if they are owned by the user.
+  - [x] Allow boards to be deleted only if they are owned by the user.
 
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. Ensure your walkthrough showcases the presence and/or functionality of all features you implemented above (check them off as you film!). Pay attention to any **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS** checkboxes listed above to ensure graders see the full functionality of your website! (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+`<div>
+    <a href="https://www.loom.com/share/51c1bf5f61914477a2510b309a476ee6">
+      <p>Vite + React - 3 July 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/51c1bf5f61914477a2510b309a476ee6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/51c1bf5f61914477a2510b309a476ee6-483f338b024e79b4-full-play.gif">
+    </a>
+  </div>`
 
 ### Reflection
 
